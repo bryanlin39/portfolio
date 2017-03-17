@@ -1,0 +1,30 @@
+#portrait {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
+}
+
+.header {
+  font-family: helvetica;
+}
+
+#identity {
+  color: #595959;
+  text-align: left;
+}
+#identity h1 {
+  font-weight: bold;
+}
+
+#navi{
+  text-align: right;
+  margin-top: 50px;
+}
+#navi a{
+  color: #595959;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 50px;
+}
