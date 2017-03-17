@@ -73,6 +73,17 @@ a {
   padding-left: 20px;
 }
 
+.panel {
+  width: 75%;
+  color: #3b4b75;
+  background-color: #e6ebef;
+}
+
+.main .panel-heading {
+  background-color: white;
+  color: #3b4b75;
+}
+
 .connect {
   width: 60px;
   margin-right: 15px;
