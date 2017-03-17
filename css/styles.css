@@ -54,6 +54,20 @@ body {
   font-size: 17px;
 }
 
+.detail {
+  color: #6f7b8e;
+  font-size: 12px;
+}
+
+.bg-column {
+  width: 500px;
+  float: left;
+}
+
+
+
+
+
 .connect {
   width: 60px;
   margin-right: 15px;
