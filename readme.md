@@ -6,11 +6,11 @@
 
 ## Description
 
-This is a webpage created using HTML, CSS, and Bootstrap to display all of Bryan's programming projects to date. Projects are from Week 1 of Epicodus' syllabus.
+This is a webpage created using HTML, CSS, and Bootstrap to display all of Bryan's programming projects to date. Projects are from Week 1 of Epicodus' syllabus. Access the webpage directly from https://bryanlin39.github.io/portfolio.
 
 ## Setup/Installation Requirements
 
-* Clone this repository
+* Clone this repository (https://github.com/bryanlin39/portfolio.git)
 * Open in any web browser
 
 ## Known Bugs
@@ -19,11 +19,13 @@ None
 
 ## Support and contact details
 
-For comments or concerns, please email Bryan at bryanlin39@gmail.com
+For comments or concerns, please email Bryan at bryanlin39@gmail.com.
 
 ## Technologies Used
 
-HTML, CSS, Bootstrap
+* HTML
+* CSS
+* Bootstrap
 
 ### License
 
@@ -47,4 +49,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) 2016 Bryan Lin
+Copyright (c) 2017 Bryan Lin
